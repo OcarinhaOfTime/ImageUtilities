@@ -1,0 +1,21 @@
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.exe.config
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.csprojResolveAssemblyReference.cache
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.exe
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.pdb
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\bin\Debug\ImageProcessor.dll
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.exe
+G:\I9C\VSProjects\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.pdb
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.exe.config
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.exe
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.pdb
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.exe
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.pdb
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageProcessor.dll
+E:\i9c\Projects\VSProjects\ImageUtilities v1.0\VSProject\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.csprojResolveAssemblyReference.cache
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.exe.config
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.exe
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.pdb
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.exe
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageUtilities.pdb
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\bin\Debug\ImageProcessor.dll
+F:\GameDesigner\Projects\ImageUtilities\VSProject\ImageUtilities\ImageUtilities\obj\Debug\ImageUtilities.csprojResolveAssemblyReference.cache
